@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ericweiwei
+- 👋 Hi, I’m @EricCKuo
 - 👀 I’m interested in MODFLOW 6 model creation
 - 🌱 I’m currently learning python & matlab
 - 💞️ I’m looking to collaborate on numerical modelling
